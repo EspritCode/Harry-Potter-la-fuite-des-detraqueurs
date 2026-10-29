@@ -1,0 +1,22 @@
+# Build PyInstaller
+build/
+dist/
+*.exe
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Données runtime
+harry_potter.highscore.txt
+crash.log
+
+# Outils / OS / IDE
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
